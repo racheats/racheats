@@ -7,7 +7,7 @@ Fun-fact: "When I was 21 y.o, I've set long-term mission until I've reach my 30'
 <a href="https://github.com/racheats"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=racheats&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt" align="right" height="150" /></a>
 
 Some sort of my working experience in summary :
-
+- ⚡ (2021 - present) Freelance-based Software Engineer at [PenaKita](https://www.penakita.id/), a growth hacking platform.
 - ⚡ (2020 - present) Owner of [Dikitada Studio](https://dikitada.com/), a software house company.
 - ⚡ (2020 - present) Software Engineer at [Telkom Indonesia](https://www.telkom.co.id/sites), BUMN company.
 - ⚡ (2020) Volunteer-based Community Manager at [Code For Asia](https://web.facebook.com/codeforasia/?_rdc=1&_rdr), Community & Collaboration company based on SG.
