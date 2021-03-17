@@ -8,7 +8,8 @@ Fun-fact: "When I was 21 y.o, I've set long-term mission until I've reach my 30'
 
 Some sort of my working experience in summary :
 - ⚡ (2021 - present) Freelance-based Software Engineer at [PenaKita](https://www.penakita.id/), a growth hacking platform.
-- ⚡ (2020 - present) Owner of [Dikitada Studio](https://dikitada.com/), a software house company.
+- ⚡ (2020 - present) Building [Dikitada Studio](https://dikitada.com/), a software house company.
+- ⚡ (2020 - present) Building [Travelerbit](https://www.travelerbit.com/), a social media travel app.
 - ⚡ (2020 - present) Software Engineer at [Telkom Indonesia](https://www.telkom.co.id/sites), BUMN company.
 - ⚡ (2020) Volunteer-based Community Manager at [Code For Asia](https://web.facebook.com/codeforasia/?_rdc=1&_rdr), Community & Collaboration company based on SG.
 - ⚡ (2019 - 2020) Senior Software Engineer at [Cartenz Group](http://cartenzgroup.com/), an ICT Company.
