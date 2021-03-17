@@ -4,6 +4,8 @@
 
 Fun-fact: "When I was 21 y.o, I've set long-term mission until I've reach my 30's to contribute to atleast 10 company (well established and startup-like), for what? just because I really loved mix and mingle and really love to learn from different culture, and now I am 25 y.o here I am with my working experience 😄"
 
+"As a human being, switching context until 100 different domain in a single moment looks very interesting :)"
+
 <a href="https://github.com/racheats"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=racheats&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt" align="right" height="150" /></a>
 
 Some sort of my working experience in summary :
