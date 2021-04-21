@@ -21,7 +21,7 @@ Some sort of my working experience in summary :
 - ⚡ (2016 - 2017) Internship as Software Engineer at [IBM Indonesia](https://www.ibm.com/id-en), you know more than I know about this company 😄.
 
 
-- 💬 Contact me via [LinkedIn](https://www.linkedin.com/in/rachmat-fajrin-3215243a/). I really love the terms "collaboration", "communication" and "community" because it's my DNA I think 😄.
+- 💬 Contact me via [LinkedIn](https://www.linkedin.com/in/rachmat-fajrin-3215243a/). I really love the terms of 4C (Consistent, Collaboration, Communication, Community), because it's my DNA I think 😄.
 
 Hey I have a thought like this -> "As a human being, switching context until 100 different domain in a single moment looks very interesting". Wdyt? 
 
