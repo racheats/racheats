@@ -7,6 +7,7 @@ Fun-fact: "When I was 21 y.o, I've set long-term mission until I've reach my 30'
 <a href="https://github.com/racheats"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=racheats&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt" align="right" height="150" /></a>
 
 Some sort of my working experience in summary :
+- ⚡ (2021 - present) Building [Dikita Integrasi Indonesia](https://www.dikitaintegrasi.com/), your B2B Technology Partner aiming large scale economic growth.
 - ⚡ (2021 - present) Building [Rumah Coding Cerdas](https://www.instagram.com/rumahcodingcerdas/), a bootcamp for everyone who interested to be Fullstack Javascript Engineer.
 - ⚡ (2021 - present) Freelance-based Software Engineer at [PenaKita](https://www.penakita.id/), a growth hacking platform.
 - ⚡ (2020 - present) Building [Dikitada Studio](https://dikitada.com/), a software house company.
