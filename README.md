@@ -1,6 +1,6 @@
 # Hi there, I'm [Fajrin](https://www.linkedin.com/in/rachmat-fajrin-3215243a/). You can also call me "Rachmat" 
 
-## Currently working as a software engineer and owner of [Dikitada Studio](https://dikitada.com/) ✨
+## Currently working as a software engineer and building several business ✨
 
 Fun-fact: "When I was 21 y.o, I've set long-term mission until I've reach my 30's to contribute to atleast 10 company (well established and startup-like), for what? just because I really loved mix and mingle and really love to learn from different culture, and now I am 25 y.o here I am with my working experience 😄"
 
