@@ -1,4 +1,4 @@
-https://visitor-badge.laobi.icu/badge?page_id=racheats.README
+<img src="https://visitor-badge.laobi.icu/badge?page_id=racheats.README" alt="visitors"/>
 
 # Hi there, I'm [Fajrin](https://www.linkedin.com/in/rachmat-fajrin-3215243a/). You can also call me "Rachmat" 
 
