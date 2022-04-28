@@ -12,7 +12,7 @@ Some sort of my working experience in summary :
 - ⚡ (2021 - present) Building [Seragame Indonesia](http://seragame.id/), a platform special for you that needs everyting about gaming and entertainment, just remember our tagline "Indonesia Esportainment Ecosystem" OK? ;D.
 - ⚡ (2021 - present) Building [Dikita Integrasi Indonesia](https://www.dikitaintegrasi.com/), your B2B Technology Partner aiming large scale economic growth.
 - ⚡ (2021 - present) Building [Rumah Coding Cerdas](https://www.instagram.com/rumahcodingcerdas/), a bootcamp for everyone who interested to be Fullstack Javascript Engineer.
-- ⚡ (2021 - present) Freelance-based Software Engineer at [PenaKita](https://www.penakita.id/), a growth hacking platform.
+- ⚡ (2021) Freelance-based Software Engineer at [PenaKita](https://www.penakita.id/), a growth hacking platform.
 - ⚡ (2020 - present) Building [Dikitada Studio](https://dikitada.com/), a software house company.
 - ⚡ (2020 - present) Building [Travelerbit](https://www.travelerbit.com/), a social media travel app.
 - ⚡ (2020 - present) Software Engineer at [Telkom Indonesia](https://www.telkom.co.id/sites), BUMN company.
