@@ -9,6 +9,7 @@ Fun-fact: "When I was 21 y.o, I've set long-term mission until I've reach my 30'
 <a href="https://github.com/racheats"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=racheats&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt" align="right" height="150" /></a>
 
 Some sort of my working experience in summary :
+- ⚡ (2023 - present) Building [Gesit Indonesia](https://gesit.id/), SUPERRR digital marketing agency platform that you really need! We are GESIT! Terms "Gesit" in Bahasa really means Agile ;)
 - ⚡ (2022 - present) Lecturer at [Praktisi Mengajar](https://praktisimengajar.id/) by Kampus Merdeka
 - ⚡ (2021 - present) Building [Seragame Indonesia](http://seragame.id/), a platform special for you that needs everyting about gaming and entertainment, just remember our tagline "Indonesia Esportainment Ecosystem" OK? ;D.
 - ⚡ (2021 - present) Building [Dikita Integrasi Indonesia](https://www.dikitaintegrasi.com/), your B2B Technology Partner aiming large scale economic growth.
