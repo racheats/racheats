@@ -11,13 +11,13 @@ Fun-fact: "When I was 21 y.o, I've set long-term mission until I've reach my 30'
 Some sort of my working experience in summary :
 - ⚡ (2023 - present) Building [Gesit Indonesia](https://gesit.id/), SUPERRR digital marketing agency platform that you really need! We are GESIT! Terms "Gesit" in Bahasa really means Agile ;)
 - ⚡ (2022 - present) Lecturer at [Praktisi Mengajar](https://praktisimengajar.id/) by Kampus Merdeka
-- ⚡ (2021 - present) Building [Seragame Indonesia](http://seragame.id/), a platform special for you that needs everyting about gaming and entertainment, just remember our tagline "Indonesia Esportainment Ecosystem" OK? ;D.
+- ⚡ (2021 - 2022) Building [Seragame Indonesia](http://seragame.id/), a platform special for you that needs everyting about gaming and entertainment, just remember our tagline "Indonesia Esportainment Ecosystem" OK? ;D.
 - ⚡ (2021 - present) Building [Dikita Integrasi Indonesia](https://www.dikitaintegrasi.com/), your B2B Technology Partner aiming large scale economic growth.
 - ⚡ (2021 - present) Building [Rumah Coding Cerdas](https://www.instagram.com/rumahcodingcerdas/), a bootcamp for everyone who interested to be Fullstack Javascript Engineer.
 - ⚡ (2021) Freelance-based Software Engineer at [PenaKita](https://www.penakita.id/), a growth hacking platform.
-- ⚡ (2020 - present) Building [Dikitada Studio](https://dikitada.com/), a software house company.
-- ⚡ (2020 - present) Building [Travelerbit](https://www.travelerbit.com/), a social media travel app.
-- ⚡ (2020 - present) Software Engineer at [Telkom Indonesia](https://www.telkom.co.id/sites), BUMN company.
+- ⚡ (2020 - 2022) Building [Dikitada Studio](https://dikitada.com/), a software house company.
+- ⚡ (2020 - 2022) Building [Travelerbit](https://www.travelerbit.com/), a social media travel app.
+- ⚡ (2020 - 2022) Software Engineer at [Telkom Indonesia](https://www.telkom.co.id/sites), BUMN company.
 - ⚡ (2020) Volunteer-based Community Manager at [Code For Asia](https://web.facebook.com/codeforasia/?_rdc=1&_rdr), Community & Collaboration company based on SG.
 - ⚡ (2019 - 2020) Senior Software Engineer at [Cartenz Group](http://cartenzgroup.com/), an ICT Company.
 - ⚡ (2018 - 2019) Lead Software Engineer at [KlikUMKM - Artha Graha Group](https://www.klikumkm.co.id/), p2p company aiming for small to medium entreprises.
